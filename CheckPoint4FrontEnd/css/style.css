@@ -1,0 +1,18 @@
+:root {
+   --color-black: #121212;
+   --color-off-white: #fff3ef;
+   --color-botton: #b4aaa3;
+   --color-accent: #7fb3bf;
+   --color-text-ligt: #f5f0ee;
+
+   --container-max: 1140px;
+   --section-padding-y: 70px;
+   --section-padding-x: 40px;
+   --gap-md: 20px;
+   --gap-lg: 24px;
+
+   --radius-sm:6px;
+   --radius-md:10px;
+   --transition-base: 0.4s ease;
+
+}
